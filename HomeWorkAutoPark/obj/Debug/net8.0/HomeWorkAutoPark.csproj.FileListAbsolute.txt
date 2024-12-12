@@ -1,0 +1,14 @@
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/bin/Debug/net8.0/HomeWorkAutoPark
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/bin/Debug/net8.0/HomeWorkAutoPark.deps.json
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/bin/Debug/net8.0/HomeWorkAutoPark.runtimeconfig.json
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/bin/Debug/net8.0/HomeWorkAutoPark.dll
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/bin/Debug/net8.0/HomeWorkAutoPark.pdb
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/obj/Debug/net8.0/HomeWorkAutoPark.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/obj/Debug/net8.0/HomeWorkAutoPark.AssemblyInfoInputs.cache
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/obj/Debug/net8.0/HomeWorkAutoPark.AssemblyInfo.cs
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/obj/Debug/net8.0/HomeWorkAutoPark.csproj.CoreCompileInputs.cache
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/obj/Debug/net8.0/HomeWorkAutoPark.dll
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/obj/Debug/net8.0/refint/HomeWorkAutoPark.dll
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/obj/Debug/net8.0/HomeWorkAutoPark.pdb
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/obj/Debug/net8.0/HomeWorkAutoPark.genruntimeconfig.cache
+/Users/muradamiraslanov/Desktop/HomeWork/autoPark/HomeWorkAutoPark/HomeWorkAutoPark/obj/Debug/net8.0/ref/HomeWorkAutoPark.dll
