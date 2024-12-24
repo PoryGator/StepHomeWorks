@@ -1,0 +1,14 @@
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/bin/Debug/net8.0/TransportPark
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/bin/Debug/net8.0/TransportPark.deps.json
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/bin/Debug/net8.0/TransportPark.runtimeconfig.json
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/bin/Debug/net8.0/TransportPark.dll
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/bin/Debug/net8.0/TransportPark.pdb
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/obj/Debug/net8.0/TransportPark.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/obj/Debug/net8.0/TransportPark.AssemblyInfoInputs.cache
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/obj/Debug/net8.0/TransportPark.AssemblyInfo.cs
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/obj/Debug/net8.0/TransportPark.csproj.CoreCompileInputs.cache
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/obj/Debug/net8.0/TransportPark.dll
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/obj/Debug/net8.0/refint/TransportPark.dll
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/obj/Debug/net8.0/TransportPark.pdb
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/obj/Debug/net8.0/TransportPark.genruntimeconfig.cache
+/Users/muradamiraslanov/Desktop/TransportPark/TransportPark/obj/Debug/net8.0/ref/TransportPark.dll
