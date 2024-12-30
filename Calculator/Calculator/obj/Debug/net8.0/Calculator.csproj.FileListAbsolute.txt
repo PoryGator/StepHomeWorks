@@ -1,0 +1,14 @@
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/bin/Debug/net8.0/Calculator
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/muradamiraslanov/Desktop/Calculator/Calculator/obj/Debug/net8.0/ref/Calculator.dll
