@@ -1,0 +1,14 @@
+/Users/muradamiraslanov/Desktop/MortalCombatProj/bin/Debug/net8.0/MortalCombatProj
+/Users/muradamiraslanov/Desktop/MortalCombatProj/bin/Debug/net8.0/MortalCombatProj.deps.json
+/Users/muradamiraslanov/Desktop/MortalCombatProj/bin/Debug/net8.0/MortalCombatProj.runtimeconfig.json
+/Users/muradamiraslanov/Desktop/MortalCombatProj/bin/Debug/net8.0/MortalCombatProj.dll
+/Users/muradamiraslanov/Desktop/MortalCombatProj/bin/Debug/net8.0/MortalCombatProj.pdb
+/Users/muradamiraslanov/Desktop/MortalCombatProj/obj/Debug/net8.0/MortalCombatProj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muradamiraslanov/Desktop/MortalCombatProj/obj/Debug/net8.0/MortalCombatProj.AssemblyInfoInputs.cache
+/Users/muradamiraslanov/Desktop/MortalCombatProj/obj/Debug/net8.0/MortalCombatProj.AssemblyInfo.cs
+/Users/muradamiraslanov/Desktop/MortalCombatProj/obj/Debug/net8.0/MortalCombatProj.csproj.CoreCompileInputs.cache
+/Users/muradamiraslanov/Desktop/MortalCombatProj/obj/Debug/net8.0/MortalCombatProj.dll
+/Users/muradamiraslanov/Desktop/MortalCombatProj/obj/Debug/net8.0/refint/MortalCombatProj.dll
+/Users/muradamiraslanov/Desktop/MortalCombatProj/obj/Debug/net8.0/MortalCombatProj.pdb
+/Users/muradamiraslanov/Desktop/MortalCombatProj/obj/Debug/net8.0/MortalCombatProj.genruntimeconfig.cache
+/Users/muradamiraslanov/Desktop/MortalCombatProj/obj/Debug/net8.0/ref/MortalCombatProj.dll

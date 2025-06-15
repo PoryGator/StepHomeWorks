@@ -1,0 +1,14 @@
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/bin/Debug/net8.0/MillionaireProjekt
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/bin/Debug/net8.0/MillionaireProjekt.deps.json
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/bin/Debug/net8.0/MillionaireProjekt.runtimeconfig.json
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/bin/Debug/net8.0/MillionaireProjekt.dll
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/bin/Debug/net8.0/MillionaireProjekt.pdb
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/obj/Debug/net8.0/MillionaireProjekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/obj/Debug/net8.0/MillionaireProjekt.AssemblyInfoInputs.cache
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/obj/Debug/net8.0/MillionaireProjekt.AssemblyInfo.cs
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/obj/Debug/net8.0/MillionaireProjekt.csproj.CoreCompileInputs.cache
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/obj/Debug/net8.0/MillionaireProjekt.dll
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/obj/Debug/net8.0/refint/MillionaireProjekt.dll
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/obj/Debug/net8.0/MillionaireProjekt.pdb
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/obj/Debug/net8.0/MillionaireProjekt.genruntimeconfig.cache
+/Users/muradamiraslanov/Desktop/MillionaireProjekt/obj/Debug/net8.0/ref/MillionaireProjekt.dll
