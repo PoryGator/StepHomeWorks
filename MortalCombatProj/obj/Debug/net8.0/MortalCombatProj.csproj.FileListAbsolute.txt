@@ -12,3 +12,7 @@
 /Users/muradamiraslanov/Desktop/MortalCombatProj/obj/Debug/net8.0/MortalCombatProj.pdb
 /Users/muradamiraslanov/Desktop/MortalCombatProj/obj/Debug/net8.0/MortalCombatProj.genruntimeconfig.cache
 /Users/muradamiraslanov/Desktop/MortalCombatProj/obj/Debug/net8.0/ref/MortalCombatProj.dll
+/Users/muradamiraslanov/Documents/HomeWork/MortalCombatProj/obj/Debug/net8.0/MortalCombatProj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muradamiraslanov/Documents/HomeWork/MortalCombatProj/obj/Debug/net8.0/MortalCombatProj.dll
+/Users/muradamiraslanov/Documents/HomeWork/MortalCombatProj/obj/Debug/net8.0/refint/MortalCombatProj.dll
+/Users/muradamiraslanov/Documents/HomeWork/MortalCombatProj/obj/Debug/net8.0/MortalCombatProj.pdb

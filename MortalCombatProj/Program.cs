@@ -10,7 +10,7 @@ class Program
     Ring ring = new Ring();
 
 
-    // visualClass.MkLogo();
+    visualClass.MkLogo();
     visualClass.PrintFightres();
 
     Indicators player1 = ChoiceofFighter.ChoiceFighter();
