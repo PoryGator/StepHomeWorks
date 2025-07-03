@@ -1,0 +1,14 @@
+/Users/muradamiraslanov/Desktop/LinQ/bin/Debug/net8.0/LinQ
+/Users/muradamiraslanov/Desktop/LinQ/bin/Debug/net8.0/LinQ.deps.json
+/Users/muradamiraslanov/Desktop/LinQ/bin/Debug/net8.0/LinQ.runtimeconfig.json
+/Users/muradamiraslanov/Desktop/LinQ/bin/Debug/net8.0/LinQ.dll
+/Users/muradamiraslanov/Desktop/LinQ/bin/Debug/net8.0/LinQ.pdb
+/Users/muradamiraslanov/Desktop/LinQ/obj/Debug/net8.0/LinQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muradamiraslanov/Desktop/LinQ/obj/Debug/net8.0/LinQ.AssemblyInfoInputs.cache
+/Users/muradamiraslanov/Desktop/LinQ/obj/Debug/net8.0/LinQ.AssemblyInfo.cs
+/Users/muradamiraslanov/Desktop/LinQ/obj/Debug/net8.0/LinQ.csproj.CoreCompileInputs.cache
+/Users/muradamiraslanov/Desktop/LinQ/obj/Debug/net8.0/LinQ.dll
+/Users/muradamiraslanov/Desktop/LinQ/obj/Debug/net8.0/refint/LinQ.dll
+/Users/muradamiraslanov/Desktop/LinQ/obj/Debug/net8.0/LinQ.pdb
+/Users/muradamiraslanov/Desktop/LinQ/obj/Debug/net8.0/LinQ.genruntimeconfig.cache
+/Users/muradamiraslanov/Desktop/LinQ/obj/Debug/net8.0/ref/LinQ.dll
